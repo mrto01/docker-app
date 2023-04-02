@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
             tiep tuc ci
-        </p>
+        <p>
         <a
           className="App-link"
           href="https://reactjs.org"
